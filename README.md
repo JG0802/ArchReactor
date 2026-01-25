@@ -8,6 +8,12 @@ inside a CPU, step by step and cycle by cycle.
 
 ---
 
+## Architecture Overview
+
+![Arch-Reactor Architecture](docs/architecture.png)
+
+---
+
 ## Motivation
 
 Many computer engineering students find it difficult to understand:
